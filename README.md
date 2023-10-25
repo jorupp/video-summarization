@@ -1,5 +1,7 @@
 # video-summarization
 
+If you know what dataset I'm experimenting with this on and want to tinker yourself, get in touch and I'll give you the mp3s or text/json files (your choice) if you want to skip the first step or two.
+
 Setup environment
 
 ```sh
